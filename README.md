@@ -14,6 +14,6 @@ As it is obvious i tried to implement a model in pytorch which classify face exp
 The preprocess step here is really important because we just had picture's pixels in a dataframe.
 
 
-##### CI-proj
+## CI-proj
 In this folder there is dataset which is a csv form of customer's comments for a product and now we want to classify that product as recommended or non-recommended. So there is a code to implement a NLP project which is using some libraries to know either a text is positive or negetive.
 Then it tags that text in recommended or non-recomended class.
